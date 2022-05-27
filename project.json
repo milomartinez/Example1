@@ -12,7 +12,18 @@
     "modules" : ["cocos2d"],
 
     "jsList" : [
+        "src/gameobject.js",
         "src/resource.js",
-        "src/app.js"
+        "src/app.js",
+        "src/card.js",
+        "src/dealer.js",
+        "src/math.js",
+        "src/player.js",
+        "src/war.js",
+        "src/utils.js",
+        "src/ctes.js",
+        "src/gameobject.js",
+        "src/buttons.js",
+        "src/datacontroller.js"
     ]
 }
